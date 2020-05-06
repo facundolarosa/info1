@@ -1,0 +1,1 @@
+int hallarMinimo(int * vec, int tam);
