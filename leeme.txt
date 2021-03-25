@@ -1,4 +1,0 @@
-Autor: Facundo Larosa
-Fecha: 04/07/2018
-**********************************
-El repositorio contiene los ejemplos que se muestran en los videos asociados al curso
